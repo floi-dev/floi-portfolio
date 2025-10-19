@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://floi-dev.github.io/floi-portfolio/sitemap.xml
